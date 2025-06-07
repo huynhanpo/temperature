@@ -1,16 +1,1 @@
-🌡️ Ambient Temp Tracker
-Ambient Temp Tracker is an embedded temperature monitoring and control system based on the ATmega328P microcontroller. 
-It continuously measures ambient temperature, displays real-time readings on a 1602 LCD, and automatically regulates the temperature by activating a cooling fan or a heating lamp to keep it within a desired range.
-
-🔧 Features
-Real-time temperature monitoring
-Automatic temperature regulation (fan/heater control)
-LCD1602 display interface
-Threshold-based response system
-Fully functional prototype with PCB designed in Altium
-Firmware developed using Arduino IDE
-
-📦 Project Highlights
-Designed with cost and component constraints in mind.
-Full system design from specifications,requirements to hardware implementation.
-Ideal for learning about embedded systems, control logic, and environmental sensing.
+Ambient Temp Tracker is an embedded system project designed to monitor and regulate ambient temperature using the ATmega328P microcontroller. The system continuously measures temperature and displays real-time values on a 1602 LCD screen. When the temperature goes beyond a defined threshold, it automatically activates a cooling fan or a heating lamp to bring the environment back to the desired range. The project was developed through a complete engineering workflow, starting from defining system specifications and cost constraints, selecting appropriate components, to building a fully functional prototype. The firmware was written in Arduino IDE, and the printed circuit board (PCB) was designed using Altium. This project serves as a practical example of environmental monitoring, embedded system design, and temperature control in real-time applications.
